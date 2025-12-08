@@ -70,4 +70,4 @@ python dashboard.py
 * **Market Microstructure:** Handling real-world data issues (missing tickers, NaN values, delisted assets).
 
 ##  Screenshots
-*
+*<img width="1920" height="1015" alt="Dashboard" src="https://github.com/user-attachments/assets/1b77c486-1f38-4f57-a929-914f9a4487ef" />

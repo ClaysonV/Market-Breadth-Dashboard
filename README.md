@@ -30,7 +30,7 @@ Clone this repository and set up the virtual environment:
 
 ```bash
 # 1. Clone the repository to your local machine
-git clone https://github.com/YourUsername/Market-Breadth-Dashboard.git
+git clone https://github.com/ClaysonV/Market-Breadth-Dashboard.git
 cd Market-Breadth-Dashboard
 
 # 2. Create a Python virtual environment
